@@ -1,0 +1,53 @@
+.l_cover label.error{color:red;float: left;}
+.upload-image-form  label.error{color:red;font-size: 12px;}
+.l_cover .input{ width:90%; padding:4% 5%; border:1px solid #E8E8E8; outline:none; float:left}
+.no_more_data{display: block; margin: 0px auto; margin: 0px auto; text-align: center;color:red;font-weight: bold;  float: left;width: 100%;}
+.load_more_msg{display: block; margin: 0px auto; margin: 0px auto; text-align: center;color:red;font-weight: bold}
+#rst_pwd{ padding:12px 30px; background:#f5f5f5; color:#676767; margin-right:20px; border:none; font-size:14px; cursor:pointer}
+.email_alert{ padding:5%; color:red}
+.errorMessage{color:red;padding-left:5px;display: block;}
+.note-danger{color:red;}
+#load_more_shops{ width:100%; height:auto; float:left; padding:8px 0; background:#1e3060; color:#FBFBFB; font-weight:400; font-size:12px; text-align:center;border-radius:2px; -moz-border-radius:2px; -webkit-border-radius:2px }
+#load_more_shops a{ display:block; color:#FFFFFF }
+#load_more_blogs{ width:100%; height:auto; float:left; padding:8px 0; background:#1e3060; color:#FBFBFB; font-weight:400; font-size:12px; text-align:center;border-radius:2px; -moz-border-radius:2px; -webkit-border-radius:2px }
+#load_more_blogs a{ display:block; color:#FFFFFF }
+#load_more_comments{ width:100%; height:auto; float:left; padding:8px 0; background:#1e3060; color:#FBFBFB; font-weight:400; font-size:12px; text-align:center;border-radius:2px; -moz-border-radius:2px; -webkit-border-radius:2px }
+#load_more_comments a{ display:block; color:#FFFFFF }
+.load_more{ width:100%; height:auto; float:left; padding:8px 0; background:#1e3060; color:#FBFBFB; font-weight:400; font-size:12px; text-align:center;border-radius:2px; -moz-border-radius:2px; -webkit-border-radius:2px }
+.load_more a{ display:block; color:#FFFFFF }
+.review_cont{padding-bottom:10px;}
+.detect_current{ font-weight:bold;width:100%; height:auto; padding:2% 5%; float:left; font-size:13px; color:#e84c3d; border-bottom:1px solid #ffffff}
+.detect_current:hover{ background:#e84c3d; color:#ffffff; border-bottom:1px solid #b5291c; cursor:pointer}
+.output_header{width:90%; height:auto; padding:2% 5%; float:left; font-size:13px;border-bottom:1px solid #ffffff;background:#F0F0F0;}
+#owl-shop-images .item{
+}
+.customNavigation{
+  text-align: center;
+  padding: 1.5% 0;
+  position: relative;
+}
+.customNavigation a{
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+ .save_btn input[type=button]{  width: 100px;
+  height: 40px;
+  background: #203365;
+  color: #FFFFFF;
+  font-size: 14px;
+  border: none;
+  float: left;
+  outline: none;
+  cursor: pointer;}
+ 
+.order_mrg {
+	margin: 0 34px;
+}
+.order_mg {
+margin: 0 61px;
+}
